@@ -1,0 +1,26 @@
+{
+  "name": "Dale Price",
+  "age": 33,
+  "address": {
+    "street": "Ukeze Parkway",
+    "city": "Apocawpe",
+    "state": "MA",
+    "zip": "08823"
+  },
+  "contact": {
+    "phone": "(445) 938-9923",
+    "servicePhone": "800428638"
+  },
+  "birthday": "1998-10-04T08:13:15.536Z",
+  "ip": "120.224.54.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Fu okija li lodoiho cakefje vevac roavewul rucanu pipsik soli cor duwefi kag leszo pivur labiv ive. Magik urhedki buvur voh mo kuloh ke ovconkat wunjeh borme nopepot ofla bud zeavuwog ehav bikattuz. Wafaad tinew eca basume gi iz gurrifweg he pagji ufze hupuzu guessem eloja ho jujevor viwup. Jub li zukeg ibo omi josnizzac jatoz ernu musna uhoge ahdaszu numanru az nelu upahocrac cauzunaf. Cul curvilali gu avilo fiaggu cid feli cuipju opifib etpikot cufnioze zektulo futtape jikcozgo. Sive sun atmoc doizjo duvos ibekocca nas ripulpal cemuani mit ezisimbej ocri pahdenka ewinazhe ta uk.",
+    "bio": "Rodoowa ucafojo kebju ivoba ojuemlaw vempub aho ogikig ga robric jofcevut zidu rigaf kuku jus. Fiz guhuwe heb podosij we cous sew pah suwdopis wal jam curmo oge leruzvo ne lanfu. Gic zepe jupel heltew zuvafaju dahu juzkoisi ik ekkumuw lulvuzdad ju cuncuhu munkauru lilos belir ojuver waw. Uk polut wiperu ef pudisgu aroed fiifako vub suameabo numhis onzepap tauvvoc itihi ukfapul pujwa oniru vohga lepib. Etemaja dof li ofkoutu vofok li fu saati jijabukaj mivaema de cokracvuj jamelud je."
+  },
+  "apiKey": "378c02ba0a0a779d3329379b8eb952445baa4182f766cb0be080eac671a9f9ce",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
