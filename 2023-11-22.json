@@ -1,0 +1,26 @@
+{
+  "name": "Pearl Sandoval",
+  "age": 42,
+  "address": {
+    "street": "Jozlu Parkway",
+    "city": "Warolve",
+    "state": "MN",
+    "zip": "95411"
+  },
+  "contact": {
+    "phone": "(940) 452-5201",
+    "servicePhone": "800248621"
+  },
+  "birthday": "1970-12-12T17:28:25.166Z",
+  "ip": "71.161.240.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Fuagidi efi sa co duladto henlonalo gofufgad citjucpo gitenako av is pasir vat kova. Tubte ov wekebeg gisas secadco sicew fitos jafojore uzvicvat cuwse luwegro ugra wib kabtolek cojijpig. Be ma iso not to se furdaselu ga turzuce hag mos ufugi takukpiw da ok. Gifimhoz jases pok jafgahca fezvi juslo sivo set jopar nodceape jiwjitah nias mudzigi. Pi se cegivzuv nofma dum ce uf hantusrur lude livukwe ki je. Aceahiisa ogi motog kuv fah olaji hivemrep doh fopba jintiib nufap aceabefo wom ceoz ocahpi gi jaci. Guzrema faeki nogkappab ine soemoku molbaris ibohi pezecmof da ru tun hir gem ho rob mo nunipge.",
+    "bio": "Ebnirbiv wiwov zahgud os co apaaraog heloz sagkoj accusi sihipa roher viif gah ekirono. Kotu nufetim botme vom ju jetbagezi atacoce tiwtombo soinvos juofu sel pa wogun atdel nacu wivro fipajem. Douwo un nes uzede pepdo oteigoug dibvo mata wah luv nozak ak rijinnus."
+  },
+  "apiKey": "3761c4cb10d1d5c8440c66fcef574c313ac21b45d3994232454602a9443f0242",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
