@@ -1,0 +1,26 @@
+{
+  "name": "Ronnie Garza",
+  "age": 18,
+  "address": {
+    "street": "Ruba Center",
+    "city": "Govusva",
+    "state": "MN",
+    "zip": "41753"
+  },
+  "contact": {
+    "phone": "(334) 352-7517",
+    "servicePhone": "800216214"
+  },
+  "birthday": "1977-01-03T17:57:55.414Z",
+  "ip": "223.71.33.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Kizislo zedotnoc ragofadu wikijtew su ivi hosnebfer togigus hamap fo van vovafose ebeifafuj ebusan pedissaf cewaz. Dugrijci zow poaz wu hoz ilumaiba bureb ipanejti muzbufe defi ibaanesoc tipmilte ovalu efovunut mowif cimet karagij besuk. Geru edo mezekofaf zinawje vezkamuc newroza wuk ni viz sat joheis ti fa efi af not.",
+    "bio": "Lerovwal are rozjom relimab jezriw morev tigo hi donmoep mopu ilpo nagmutit. Cumu ewgu jitkow finafim fo zeapiket gehuv uk iwoowe agaso ijecocfi apouk tebejet puje fesavo hufaswi. Folfopgi pijus warudre vuw zopkisuz od bu jew sevojiek iligib vabu hifabup efo zep upiaj nil av. Ozu touw larguvi zafjavoku zibci bi jub ho gonoobo lu jestadruj mekrih turwivet nehlu sawickow nek ovlanef. Niplu ecahoj vonud cur azi didet maedepa ho jigkiura kejofvur hokci erra vavi upe fajofeva wawwiv ces wuhfe. Li gip gir efiwo laludcu edpuvwij pumuwra kiz sanbow uwo tezaofu wolu da logbo ohizov vu son kacu."
+  },
+  "apiKey": "5d353ae9d5604bc4d00cb95762fda0872e090785ffe8817ad858d36e9b96d59a",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
