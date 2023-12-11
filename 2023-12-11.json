@@ -1,0 +1,26 @@
+{
+  "name": "Gregory Norris",
+  "age": 22,
+  "address": {
+    "street": "Haro View",
+    "city": "Hezobal",
+    "state": "NY",
+    "zip": "76942"
+  },
+  "contact": {
+    "phone": "(334) 617-1133",
+    "servicePhone": "800188227"
+  },
+  "birthday": "1977-07-22T08:42:28.063Z",
+  "ip": "141.183.164.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Divekju cak jib muk tun zak mo beukpuz tizo iktiz ovano faha ivo kuhawsif kihzaja jaoboka. Sek gabtuge berlunhoj sin kumorjis onobe etofuz mohvewcof viwbuzjad gi licata sa bu hulej zezekfuk. Zik ivu fuphunke gepiz uwinadfe piigtup obkukta joh cab osjifma pu rug piz nunizes. Ewiartu cab ril kog vaf kavgu jefikuve sodum tu tem wirci acna wizamnu botlo. Ko wom ijumebo hivarca wobud za di bo tomi ahaiwwes usmuma votzimu kurpesak ma rubek zi kimputeg.",
+    "bio": "Efehisiz es je ke cacevaka asnocir kop ges jijtotge dujti ku fu isjobe. Razjizu zozo ovo pogebjek uzi tominoha lozabu zugru jegekvi piziwova si at wecwib armu nobupohe wu. Degrifid guda leti jejsesi geege poh metfin jak biaslig pewravo ditole cofejdez etoh an jac haciw kiomu retubidiz. Vizzur bopih pikvos tonen koeki valho ca ho tu ob vebotij vetgawrop olu bojotcan ilridup pohjamca bu du. Veroze dejzebzif tartiire oduigji gorzim foljieg fen fe tusgigmu vul elubasu ziner."
+  },
+  "apiKey": "a52041b33ae7ebfa40076c2ca7796f0b86b42a46efe68218589d6873e1c66ac1",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
