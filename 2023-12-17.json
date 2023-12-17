@@ -1,0 +1,26 @@
+{
+  "name": "Joshua Stevenson",
+  "age": 25,
+  "address": {
+    "street": "Wezim Park",
+    "city": "Kezihhah",
+    "state": "TX",
+    "zip": "32988"
+  },
+  "contact": {
+    "phone": "(941) 674-1163",
+    "servicePhone": "800934512"
+  },
+  "birthday": "1992-03-08T07:50:38.325Z",
+  "ip": "226.210.128.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Er luparan wav navil ud lowhas osilulag galumeros oh jewasan fok tabog jumuwa nicfiba. Lid vimke viogem fus fameptez ohoim malacco tugu cudizase utiav ubcev pawani ih. Tesojzev ze hi himdaobu wuzlez tal ahado wotol di tus arrav ses pomriwfe va jote melsorfok saeh vufdogog.",
+    "bio": "Nivtil puz ew pazhed fe pawlak jukizato osoni sidet saztislih olrov sufacuj fafhe fi lowepu. Ag dudeloewa diazno etoegguh fonuj upwe giruh il za fenjiva feot adnouvi fiwki wi ku vobke. Ajde bahu bovucse ela hicdot kaerme wo pegri gipej rijoiro rim zeugdor fevo rav cavepuha befegar kitifo keducu."
+  },
+  "apiKey": "594081bd0920d6b4d3c1bf8d192fc9d93cdc0586034cfe29f0f6d935df9c8d12",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
