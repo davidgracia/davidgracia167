@@ -1,0 +1,26 @@
+{
+  "name": "Danny Nelson",
+  "age": 39,
+  "address": {
+    "street": "Kagtu Key",
+    "city": "Ipafovu",
+    "state": "VT",
+    "zip": "37572"
+  },
+  "contact": {
+    "phone": "(607) 892-7508",
+    "servicePhone": "800797552"
+  },
+  "birthday": "2000-02-06T01:49:11.626Z",
+  "ip": "26.133.166.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Miwu um va div dire ropovca led urvac nazmusga of dubi diemeag luzde. Agunezja fe rivrawgif vidizij juw ra enajus ribiri fipfiv wumadwa fukekir fupkoja dobhuisa jarmoten. Gipi wujmu it gad bu jew cusuke uvzavah zuki zonucit we oveticu uvic. Hin zoce wi gagwe sezami butdivwa sivuh cipom du caol vuhel jicihhal un hudbemhi pajojko zarucu sovawvuj fi. Moh cifwij kufkaj ocbup famnakonu cufu me oriaf pa ogeoro ragotnom re ja memuhum ikuva nouj opi zun.",
+    "bio": "Nuzucla azbok fiwti ejpaguw lev sa acuga vijafetu sanka dobme canpu zic. Dudpawir kisi movo tujimo ajoto nahili ug reti miso majfehav puizfov gi rugmo. Wo eririvim vuwufo zarro owcale tefi vaksomvic ig kugfuzec heg tihhiv uhogzic fo."
+  },
+  "apiKey": "f1e8a1f6771a0ea8c9f9e0727430deb8504d8843e9454dd5e415e76fce4fbeb8",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
