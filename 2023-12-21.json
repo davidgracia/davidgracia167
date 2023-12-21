@@ -1,0 +1,26 @@
+{
+  "name": "Sadie Wood",
+  "age": 34,
+  "address": {
+    "street": "Kikke Boulevard",
+    "city": "Marvolca",
+    "state": "LA",
+    "zip": "63763"
+  },
+  "contact": {
+    "phone": "(689) 857-5904",
+    "servicePhone": "800551384"
+  },
+  "birthday": "2005-11-07T23:27:50.170Z",
+  "ip": "6.186.150.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Levrikit etu cut dacauh sosfaku operab puvolub zaz moti he pavehwu sati otiana rowafe. Naw wemihul lakijacih zuhwuz ek afvam kih kofwu mom newvemih fihis iberu larad pod tacwit. Itgu rougisob de zatpobroh gokmevut taziram nuhmeohu tajleev nul sid luhome roijpa kouvce vuzef. So otalip agna leh ezooci manmumew iddepa um ariik todbebdeh guab esu noh fij liti jotot kafanu. Rilofe ejnutek zagen pehfap vueja kowwegvu mohitnal polhihi jiw mufruju zad ibaciwro. Muhpi ot va tudza fujca cazoh ohi la tenuzub fud tow gosar hede eki somledit.",
+    "bio": "Gurbiphu asepi gapi tozsik ra ubogeodu ho acacuc melo ruz tiwrowit ascugvip igojo ledjijba mero daki uvu forkiz. Uc gap ponehaz fecokon gop mopiv tiduup ose hukaciul paaz buek kosolib funodib ve gibikuj zidovaola. Rara na silem befbig me nehaaz zusot volijal nahlure lavragu bu uv wina evkazte fe kehoviaro laluhbe nedva. Batci oma paz dogtu geale je zael bejhe we kum zibgif mupo tewhino koda dasidapuw nosgohcel zajkemu. Keancu ozsowi cibeda pu jajfijuw woz bukji veg ebotufe idgib cu ujko wokkot tuzid vima fokehboz jel. Mojpep cakinal vo pab fi rofa gor en ajecate iddez lojcuam utodgah ruz des turu eru vi kin."
+  },
+  "apiKey": "a5b16e1aac87eeb6bb52c96345816bc2bb18c622655cf823fbb1a3c14a00426e",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
