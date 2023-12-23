@@ -1,0 +1,26 @@
+{
+  "name": "David Lopez",
+  "age": 23,
+  "address": {
+    "street": "Zidep Lane",
+    "city": "Lewuwwe",
+    "state": "NC",
+    "zip": "92697"
+  },
+  "contact": {
+    "phone": "(258) 772-4451",
+    "servicePhone": "800693612"
+  },
+  "birthday": "1991-06-20T13:50:23.042Z",
+  "ip": "42.142.203.64",
+  "foo": "bar",
+  "profile": {
+    "about": "Rejahawa uvduk zidifu sacvor ec luvpo afukwo kasdawo elomu giuvnu bipluh feoh gavdur zemeuh witlonek uweha gikobut mam. Onu gesva etsa bagbehuma vugeow emodo tofgo roew ca pa ju kueb wiava onrarbev eraud pizgefjob mi. He so zuvo bopar bempez wemuh sed ahbupnon zonopzi ovir pa vazo nojde biemoam gufbil wo lijve.",
+    "bio": "Mep ce wecap le cogwa leges hoznoolo fu ki ko be seno. Mi rereogo elijirep ekhe ru ijek min sahizvic woh ma nohonco ubutut. Ze wiftaode bogafgi agootiut lad bekil awduzru sowra ocihag iztafe pelo pu re ku."
+  },
+  "apiKey": "956940fc82bde0c4a4c41b39bd4f50acc43424f4efaebbbcc960c66c164aa6b8",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
