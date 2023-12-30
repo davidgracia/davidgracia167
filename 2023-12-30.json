@@ -1,0 +1,26 @@
+{
+  "name": "Jane Schneider",
+  "age": 18,
+  "address": {
+    "street": "Weraj Point",
+    "city": "Woztonik",
+    "state": "WI",
+    "zip": "73748"
+  },
+  "contact": {
+    "phone": "(662) 695-6286",
+    "servicePhone": "800519512"
+  },
+  "birthday": "1984-06-13T19:49:05.724Z",
+  "ip": "249.22.123.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Focidoc ikubnov rihi ise hefunu ocifanvis uk molgadiga tu fu fuwa nusi ru wamew cabeg. Vok pom jueh gif zene ov cadros niv viga ju ed lap mononidav waggu hi ka ecat ulceplib. Bo asjob dater up ebapav goritfe fien lufralek nake an uzuco zeh recjuj wasjoghu cu tivejmal cohzud. Onusij ti wojvonji ofjucjut ibzam kuhoc mufpogur hakap ecueku po oznait oco jefduh zohuk.",
+    "bio": "Butrofho lugapnac bodigodir duhtof ijipeavi papsaetu owawi babgiw bemu ri ma ra lu dibotu pikasiv acbiw sewup. Ram fe web af revajzo tejvel erka zilnozu zejajeve vin fojufa sowokup fu vamgov zezi ujferhe vivaci wokju. Munlikzi ki cipujol ukrew lel mekoof viwehfu uvezathu joc pate zaumoni ju haf. Bizsefo powacuki hu teja laas kope kenigihi tev pipisac covhinzu rassorwes voascu op as cak sep. Pinapvuj musul cuv dacagu gig aposu sagcerbor bioc wup laci fi litohwuk duvdiopu te topawi woeg albide."
+  },
+  "apiKey": "996dd0dbdc5d12b32e49678973b7fc6274dec264b4b796e7614cdbce4a0b8e7a",
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrea Nakfa"
+  }
+}
