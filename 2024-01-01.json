@@ -1,0 +1,26 @@
+{
+  "name": "Charles Bates",
+  "age": 51,
+  "address": {
+    "street": "Turbo Point",
+    "city": "Midigri",
+    "state": "MT",
+    "zip": "04824"
+  },
+  "contact": {
+    "phone": "(541) 522-7588",
+    "servicePhone": "800344721"
+  },
+  "birthday": "1993-04-09T12:24:39.890Z",
+  "ip": "55.9.23.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Ra eg ko ucopa now wisiwha buw ecge mi tez vapopu umzej zophif adupa kikhanwi. Usaoke vol nohkiw kihezo pa gekveto folo cufva za sium pipga zi ru ipi par upo fanezibo rat. Pet kifajluw sofoku caj efehe bu fil rewme nupolmoc idco huvuke genuj du ageeha nid dadij. Jebopes cumow sappew lefzuiwo kezhi kuc ra wi gu dusdebam fahsu etu kusow fekuvge jobifo fet.",
+    "bio": "Lirzo sokjeh igrible wagna afsev leiw ezefak tofwokor emu sisadfu hicufde wowdinizo ba. Pe pinmek govciz ovo dosgaho sav du kiuw vugderul notmi invoc ivi gejsim cubewiz itikefar. Ovukefum vo idive adlofgu sejizu joojewo gaf epih juduwlu jukcij civcoom dowbib gowiphol sog zavinva liabuol he."
+  },
+  "apiKey": "d9cdebc8fd911f8fbba7799d7c080c0a0111a41299f7068bd55f2fa527b047b2",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
