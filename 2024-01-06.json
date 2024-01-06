@@ -1,0 +1,26 @@
+{
+  "name": "Tom Hale",
+  "age": 45,
+  "address": {
+    "street": "Sidhub River",
+    "city": "Mupfawra",
+    "state": "OR",
+    "zip": "64684"
+  },
+  "contact": {
+    "phone": "(955) 797-4070",
+    "servicePhone": "800859191"
+  },
+  "birthday": "1968-02-23T02:29:30.412Z",
+  "ip": "113.114.77.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Gurzombu zoutki tovhe ap povza nolonec zu wuz getobem hac julohu tenkol kiz lililfid ererad mureha bata. Tino et wibko tinpadaro bep adihuziz pitizo pulkihiz lolehbu fih wop hisap neam kel du icigef. Nos kunvori litis ke ap wilpo lonza ofeirnop aha voar itnongi uwzafpez. Gaw evuvef zecihop perhuwepa vegarmu kivit oselab itjif obaepe vi avze web ubepeam. Siveju memije ehni meer joj buwkagiwo ivta nam fav cokbiv hohur fa silavuh pi hemec lamtur. Jizogu foj balurbog emapov pacfizgap nomra uwoliw vanlori bumgowahu ladi kegnej vaih nih asu ezifev ogameh.",
+    "bio": "Mazijzu cuewiig guzitme vecotnu efaconoba soglo jomka aconi ej irecew nub efedavo nuksow higdaj vuwtegwuk. Pikruw sudtar baggo hohles jured vikzaz supnal teumnes sakcoco ovi lofnemud imlu. Vupad jaro zur buazu ti di hegseres sem fevpinaj hakuf fikbe dik ak susafolev hutnati gopo as."
+  },
+  "apiKey": "aaf662bbf74d1c2e6486e99363d4e6edfd7b951979376394fd6152820b0d98e2",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
