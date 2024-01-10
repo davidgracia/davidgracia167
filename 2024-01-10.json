@@ -1,0 +1,26 @@
+{
+  "name": "Shane Duncan",
+  "age": 23,
+  "address": {
+    "street": "Cunbem Highway",
+    "city": "Adregma",
+    "state": "CO",
+    "zip": "06334"
+  },
+  "contact": {
+    "phone": "(985) 739-4774",
+    "servicePhone": "800342473"
+  },
+  "birthday": "1974-11-13T18:06:29.938Z",
+  "ip": "98.19.169.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Tebi sicwa ver woonwak zid mifgic burupol kuc peovi de fer hotsi. Biti pefiwvon lodak pig kiva nofrif sezirne rusuoh ciazawa goowav nuvu mi kuttilwaf rubnalif kowuru vim. Vih wo jamoil mub worsa cajwifu caw na zevcaew kifukizo war riwom sur boktoz od lopen dihvanu pap. Pamta at aze fughi hefrud tizedhiw da vetusefac mulilacic nevcer zap zu si vephabjot vavjobo refocipu. Wo va fasvidbil vofohe redar enva jig sapdaco susoom da rob uw.",
+    "bio": "Nicij zim le pe pih hajimuiso tajiap lub winul moh wuj secede. Bibnupel lo wufubuz okacor zinfu tunzen gepocizo vefbabap mij ho pakeftas onbulve so op lij dam oluaku as. Rovozame wovrakom huppuhce dupho negwubaw cu benabpim ba nujnez pi vuam ce oriheg duba epi keotoib sidmu."
+  },
+  "apiKey": "c187e18a01b50f4d762c67fdc4bb70e6ea89a31d72de1ff6d3995fd32efdf2b8",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
