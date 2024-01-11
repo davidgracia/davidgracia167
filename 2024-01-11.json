@@ -1,0 +1,26 @@
+{
+  "name": "Maude Tran",
+  "age": 38,
+  "address": {
+    "street": "Bajvet Place",
+    "city": "Giediga",
+    "state": "OH",
+    "zip": "05814"
+  },
+  "contact": {
+    "phone": "(714) 812-1857",
+    "servicePhone": "800427412"
+  },
+  "birthday": "1962-01-07T20:46:58.072Z",
+  "ip": "200.30.214.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Tetaet gog eki ic de duf heani lizto vipraef ifa ketzipge da rav ah. Uneucne coge hoewu tebakuduz jem juoc arwig uhedovcit bobe konas onuwen haz arziem. Peco ifnafuf nuhirifi mucodtu cusbi jatsahaw vibcete peegomi cehe ib beju doh avzo ilnifad.",
+    "bio": "Ocsibsu eh zaimic fevti gifeb kaav gipja gilbarwov aki pafluc sako fevudkaz gaego amazi bakhommu ne iriowafa nu. Vuw poglij ekiasamet ma bogacmo kilahanab mi jujanu ed naw fasow vutjof kig tunuh epo. Neznubi uktoz voba ofatud safar putbepgid hemhu nuvnu ob vomtu one buv cu. Ad leginile vecgeze ilifuoke mogaw sa siwizu fahaz neg tugfoge vabel ugo poura bucpofep na tuel."
+  },
+  "apiKey": "c197cc0c2cc68b9d7b7180bda92b506da9e60596b1e695cb419ea3638ba3c544",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
