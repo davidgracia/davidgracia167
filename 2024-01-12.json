@@ -1,0 +1,26 @@
+{
+  "name": "Mark Cannon",
+  "age": 51,
+  "address": {
+    "street": "Wuzmis Plaza",
+    "city": "Sawusa",
+    "state": "KY",
+    "zip": "43372"
+  },
+  "contact": {
+    "phone": "(336) 615-6852",
+    "servicePhone": "800145712"
+  },
+  "birthday": "1987-11-28T03:32:36.713Z",
+  "ip": "123.4.13.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Fivo vami jaos elo huzo etafaduz ezavafot mibrefcut ca defsugmo aziru ozra kivid gamej ledtot. Gad puhuf javtakug kof cosiij muhe boro ro af buk usguced binirkad nifilvun. Ror juzfutotu vucakofiz zevwib ohosid hudcekdu duhilup neglazu walah pi nikefju jumedu zusal.",
+    "bio": "Uhe epovitpap zuhowibab sa zimdevan dav gozalak kiwri pu pum cod ufuwahis zin wowi sesi he laj fup. Deav satfosli meloebe ver zuki ogehe migotsu ocaras asapad ucbok lujat wo vonajo. Bewu docdepod vecmop rep ra fewakuj lac ojuju ovupihcem bama go lalcu fejivzi. Epto gohakojek hurvi kouvri pukab fozupgav ino bi filussec tig siicu ave areni lu dowat pefohisev."
+  },
+  "apiKey": "2ed96b1b1e612c17b2208123cf626e1ca8a9408b910c1357d8215e2d85232b4a",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
