@@ -1,0 +1,26 @@
+{
+  "name": "Irene Gomez",
+  "age": 21,
+  "address": {
+    "street": "Ketbic Lane",
+    "city": "Ehaniku",
+    "state": "IN",
+    "zip": "58189"
+  },
+  "contact": {
+    "phone": "(262) 451-5678",
+    "servicePhone": "800815699"
+  },
+  "birthday": "1971-06-19T05:06:58.130Z",
+  "ip": "67.10.171.212",
+  "foo": "bar",
+  "profile": {
+    "about": "Tikas purir gezdoraz fav modo hoca sibinta seku padre wiz sapurpe gowod ma adufer ono opiti mufilko bocvujuw. Ipoik roz so kuje wofpim vijoviz ek gighuso ivka mupdibi ru selusku vo avwun nojohmet uhrif. Di rensog vanzona gacwo orzov divkezuza nad eb vasupoli uzomuzij jeli lujuc esubom tezce. Naglop uvese me corrargab te ew goimigu relan nitnun tamik to vedse lukoliv fow sib. Isurug hi katubo duiw gihciuk awijacu bahucem ameemegow jojuv ar voja nedo zolbowuku face eb.",
+    "bio": "Ebfemmuf ujo ur wowhu jot pugkevoc ijre buibso uzkesal jim ujseeve vetosem lisehcu kukwe. Bahujju kitgifu vufkufag eweju acfel gugafli enuwedo ri ozji nokes onpob cakiapu zodgeih mur ezuce gugor bunkorga. Bo ne cim ti lusse ponu olariwmu leno zac wuhsipu uhenaf wil za."
+  },
+  "apiKey": "f1f13ac97343acc00b11e834533cf4701cd47808692f39a5658d4b8bd777ed0d",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
