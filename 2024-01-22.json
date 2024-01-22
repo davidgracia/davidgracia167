@@ -1,0 +1,26 @@
+{
+  "name": "Justin Schmidt",
+  "age": 56,
+  "address": {
+    "street": "Pego Avenue",
+    "city": "Puombir",
+    "state": "NV",
+    "zip": "95127"
+  },
+  "contact": {
+    "phone": "(652) 946-9668",
+    "servicePhone": "800773968"
+  },
+  "birthday": "1990-02-12T20:20:53.923Z",
+  "ip": "79.212.27.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Ful bes puwinhi gadel lazusba jos vazfukobu jakko ik gorbib waf zobe kesiv ku huwjijare. Wivfifgu foju cem ukkubboh giwobbof oje muwuhdi de le jaikubi tow rekfen. Siw mu sugo fuspude kedoon calgap zol regas wosafge rur iji atuitme aluglo onooge unlo.",
+    "bio": "Dolebku emani ridpu hapvafip igaonijo pehhutic karwof heh bewohrej iw heze uwu ipvih ciklis. Feptun legre rorapigo vevenwun ge jep uca ilitugogi mej sutugi lu zurwu unijahiv defimoti vuvu nuha. Odde cofifizi mobdoh titciv alpo le puccow fiomu ihlop kaljatel log sefsomor bucewi ba. Magogo ijo zarkol te vu elo wigi hehovje fa peaz tul opu vas jovfuzwo. Rew jobiforu osu wihna nu pi he ci ri fiwma aguzirif akzo ped lopecuf oj. Biw ziz inudewji lovutzi vualap zu fejar hoz rotwo jab sieb zej. Lonakikuh vacmes neroh du bas ewomo duwfi ipibagkob ko ohebul mioketu nu."
+  },
+  "apiKey": "4bb13f656cb7c7a8e4101a24c8b620c080e6efff3494945f331ba4fedd051b11",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
