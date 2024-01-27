@@ -1,0 +1,26 @@
+{
+  "name": "Manuel Freeman",
+  "age": 24,
+  "address": {
+    "street": "Mazi Place",
+    "city": "Vihciwi",
+    "state": "NJ",
+    "zip": "92862"
+  },
+  "contact": {
+    "phone": "(466) 355-9387",
+    "servicePhone": "800167692"
+  },
+  "birthday": "1962-11-19T23:56:49.398Z",
+  "ip": "159.163.120.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Luunkim obowi uwufil walkov etdo vubrerum menembin kuvofu gittadvep sa wod bod voijehi nokuwok kuwogji. Cirra ojzehho jab meneheco diad juj faewvaz bi gavperer vu opikewwor pogiho. Laze kibigot lu arikajuv wu tobabtac dazosooz rihhowoh onelu fogabheh itsa do kozpaf.",
+    "bio": "Davfuva viz gu sad kerab gimatiji karohpe sep dedi ritlemto ano buset zo bah ista. Eba sugur co wozcu rijudaote zehnag meab amwagro zovhu mibefug iwoda vepikod dogka geg opsuwi ceik cidami buawfaf. Jevhog de jaciptot zen pigak pana asijutem meskov ifuko me cijon unofif ovcuna onpu diuciwi cuv. Ekzig febkiv nop juneg cuktiime rovuni kure pafuba uwe juj naspiz gu."
+  },
+  "apiKey": "da3a03f92336c46f6a179e34a4acc3bc102ab2b6e08c428cdc19b5d28f233c62",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
