@@ -1,0 +1,26 @@
+{
+  "name": "Roy Benson",
+  "age": 20,
+  "address": {
+    "street": "Hupra Avenue",
+    "city": "Hedjurih",
+    "state": "NV",
+    "zip": "09043"
+  },
+  "contact": {
+    "phone": "(906) 235-9560",
+    "servicePhone": "800337396"
+  },
+  "birthday": "1970-08-08T02:02:06.280Z",
+  "ip": "30.29.179.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Wa pi ewinu abi azane ebugufka fima pivciag upeod eso re azetizis ospeid zafukiduz. Puoc li mezjogo pas vu domamoj dezcije ethedero ci felum ifuri kegfagu cun nej fu nuja vujeba meg. Vu daj zazve jadap etosi comewti vubo rehjeh kow cuagjet ihiaraum mo kog. Ibuununeh no mas oh toave dujputrov ner vekziusa na pajjus hachusut gajhamju gig bozjik radsa. Gu geloofi ubcunbaw jok cusma lawano rowza ceimuiji apo de ik nohdef caziv ticuwti dava.",
+    "bio": "Hun raro dilupoj fanca biofo ekiuneruw widan ve waevhi avel weva za niop. Kit masamu upetesruj epamu do gi zisahcit icmomis fekikdu wi perdoh juvho so bimvu. Bami rooz timve we lo ut goeb hogivzif escec gioji pa pinuke dielje fusponebu lemdi rogo. Wialga ut ko jekkuf zadiivu ak fe ifuce votob tawowe gu uc azti hutsizaja met mipga guk pedbil."
+  },
+  "apiKey": "1eccf7ad7dad9823383b095b6c2a49a565630e6cb95d071299b00365c71a94fb",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
