@@ -1,0 +1,26 @@
+{
+  "name": "Edith Pena",
+  "age": 25,
+  "address": {
+    "street": "Bijo Grove",
+    "city": "Pirathi",
+    "state": "NV",
+    "zip": "99894"
+  },
+  "contact": {
+    "phone": "(533) 853-2003",
+    "servicePhone": "800913343"
+  },
+  "birthday": "1970-06-08T09:18:49.148Z",
+  "ip": "179.134.76.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Ifuen duran naafi te jitbuk nolidiju rowih wabbek dohri ligpu gu ujcepom ro coteli. Akked vupaw nomejbah ba peikta izpot fowewe pa fu wiz partibuc rugba. Ulaluhked diw lorezic jutohep wom docijuimu ti ekhumha atojilbil ul alholi hagejiwov be. Ic vuag mohfuv nenrum jejlumpif gavcem tove koza fokotiv mad edadaba firmesri ijacegkal tosuv. Iddodle muc enupefa gob gi lubwet fe ujni ub atinid vicok dodbiow ha il racer.",
+    "bio": "Hilo fujolu le ah ape otemera of karwiruj co naci ba zigjut vutwa je vuzgerbu taf. Obzo fiade suvfiko risubdu ipudi caomnuz kuw wockacone fiwdaneji ude ticilet mazwil mavlacba ivtanbuh epkim. Li jiltepi we vufaf mo sagfudo guk kujworeh su ijibaz pizkajfop jatawu."
+  },
+  "apiKey": "a2ad3572b759e6d053ae11a8e4e666d95ac2031e4cf57fc10b4fed5dc8c5cb4c",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
