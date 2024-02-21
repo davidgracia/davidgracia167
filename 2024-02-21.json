@@ -1,0 +1,26 @@
+{
+  "name": "Leo Bishop",
+  "age": 42,
+  "address": {
+    "street": "Vivted Park",
+    "city": "Semuher",
+    "state": "MA",
+    "zip": "94932"
+  },
+  "contact": {
+    "phone": "(549) 733-5721",
+    "servicePhone": "800223921"
+  },
+  "birthday": "1992-04-29T15:59:17.839Z",
+  "ip": "6.122.251.158",
+  "foo": "bar",
+  "profile": {
+    "about": "Be cog upo vide eghapno ki ito usakoc uwe sa socvizocu kerad atiigko pemik zacos ajkenem. Bocbu ci tumojrad ni fehibdep cushapeh bugpi hiz va uze ror mosodon gojoudu. Disubu fevpava lizded gejibukad guca bekit oze fohunmiz zap uf hazuzo henozata zodbip zofisko zoj.",
+    "bio": "Len bainuza karowi kefi zagecuh un senzomki duvavje wiksol wudcuvvak laj duztumkup ipefe. Hek egera rigvoguk zezjet sakfeh re neserohe nipojab je olvo jujubic luhima. Do bem fojlewu rehi pebuhaw letjel bi abejisi idiekigom ubezi lu pav. Ihcad buv nimu baelhi etaofo jodbagu rep avwuh hasgefun uriopdew fusuji wi kub ozweuf cocire kamu ka."
+  },
+  "apiKey": "c105003b1c189c6b652bc927a2a467fd5327f0ced1712afeb38392d7c3cd45b1",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
