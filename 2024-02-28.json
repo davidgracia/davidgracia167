@@ -1,0 +1,26 @@
+{
+  "name": "Gerald Fletcher",
+  "age": 42,
+  "address": {
+    "street": "Limju Ridge",
+    "city": "Nilecam",
+    "state": "IN",
+    "zip": "84835"
+  },
+  "contact": {
+    "phone": "(910) 824-6296",
+    "servicePhone": "800395991"
+  },
+  "birthday": "1969-02-25T17:55:33.668Z",
+  "ip": "245.55.178.206",
+  "foo": "bar",
+  "profile": {
+    "about": "Owate oj uro cakoco eli vacdub use zotlajogo aw umda uj pivhid ibu gestal. Gam alcewguv ap bawji jecpu tobko nuro fi aj seuz kad adoece taco pobiko. Meise inelevov kusucure curesfep uc wuzecapa ju bipe bowhuaz maj gip sop. Ka wucdi anufagfo oho bezo joegouve lik uhacacuw gije apje najde riuguca er pe wo vapuno cun coz.",
+    "bio": "Otivafa acoig pomol rij ho aj izobe tavrub migejmaf vulset sanojaje tagamta labegi wak fiweka ji eg ujiivapug. Fiz siitades gojwovus pucuef gicjuj lazovip taziw laf co sidrufma kefuv edugo not. Larehhu fugreh helesub oz vizun pib muf ji keb rihwif witsenim bas no keimaamu rim rub."
+  },
+  "apiKey": "f382e0d211f18cf7c5af392a0d57558b418a54161fb1483a068ae4c2ca9823da",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
