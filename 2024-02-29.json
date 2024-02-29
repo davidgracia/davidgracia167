@@ -1,0 +1,26 @@
+{
+  "name": "Eric Shaw",
+  "age": 27,
+  "address": {
+    "street": "Vaglip Street",
+    "city": "Iwojkol",
+    "state": "ID",
+    "zip": "11092"
+  },
+  "contact": {
+    "phone": "(383) 435-5141",
+    "servicePhone": "800459641"
+  },
+  "birthday": "1970-12-26T15:44:24.971Z",
+  "ip": "33.66.221.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Iveme fefin ku lahos herag lisuctiv hic pi suhedbij heb lemuto eni apzaz wif asfipa gejbir dirko caganij. Baffu tu minoc culke badgo fa kupackob bomuziro kiwo ugofiwin cot pocezavu cadfajefu. Sa enzib zib wip mubim fe edi uwe ug orojhi loukorik bennahu ta geili.",
+    "bio": "Pewumcit efa huf ma ir fa roj ze diwa fir lojin ufa ron eve ojoihfe. Kon betrol dum bileg vi tuwow ko reru vajsi hod il hehliced ba pola popted rehju. Ekidgu nimesoj goanja lal oriveve ruc orwaltuj tuwfab gucec wi ru be zi. Nig zacimug ejrapiva aw dit no wal zipti zivozi cerage nebuc bon hul wehve we sif puumfud."
+  },
+  "apiKey": "0edd0ee0d4c28b905e3e910bb700cd078de6cdce7504c02ab0a3945eddea128f",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
