@@ -1,0 +1,26 @@
+{
+  "name": "Brandon Martinez",
+  "age": 21,
+  "address": {
+    "street": "Wojco Boulevard",
+    "city": "Jevesmu",
+    "state": "TX",
+    "zip": "98888"
+  },
+  "contact": {
+    "phone": "(473) 252-1780",
+    "servicePhone": "800942275"
+  },
+  "birthday": "1983-03-15T09:33:09.361Z",
+  "ip": "87.58.136.71",
+  "foo": "bar",
+  "profile": {
+    "about": "So bulic na wiegva akoiz ciziwami oblasa honubo ger nu duvleh mehuwavoh. Rugawje borod sagbed pompe dugvujed cehhilu fadtulhid fozewa fimcicno kibawo acedufre disset pojli su pumvofi fu lo. Gopog mehcic voap mo uto zivib la ci ad ilvaho tehu ka. Wujozoje tok zalbajpo lar gasnuk oba mizigi sehu nivlanu toha ahtip meco hiha rip wedruvev ravzi wikgep. Gojogmop wemlah ruriluwo hujpuga pepfar cumosisa tagherer aspo guv nemule le nuboed ow zis an. Be nafcun gu tanin cuw co ponoz hitakbu aj hebkoosi buciz fecusone jazvimozu ovejaruh her.",
+    "bio": "Mohodzo buimlo wopo wo tote cur uvduklos westajuw dakrehnu ked bocikod jon oh vujowoki bonwod. Keh wiejfe vuzet be juh fihledgo mued co tebpobde hifuce futu ona uhge wunlilu eru fike vedil. Vojeh mijga zumacwu eg pelhanfen ejhicolu fissagdah hegifjav cela cevdimba bufah av reoh vufen vopigmiv fuzukra. Nurmikado bok dinococ fugjuhma vow erbozvuz ticoveuc hoc murkonsi nuwu wahregboj os rianzi lihu vo."
+  },
+  "apiKey": "5af2d7052794f4f2805cd0db4f3b187597846b8ede1b1bfbfbc27f3d690316e2",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
