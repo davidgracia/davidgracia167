@@ -1,0 +1,26 @@
+{
+  "name": "Nora Boone",
+  "age": 64,
+  "address": {
+    "street": "Cimizi Place",
+    "city": "Vezzebuge",
+    "state": "WA",
+    "zip": "27439"
+  },
+  "contact": {
+    "phone": "(627) 375-9177",
+    "servicePhone": "800279518"
+  },
+  "birthday": "1999-07-24T06:10:31.739Z",
+  "ip": "3.70.87.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Jurikdo irusip ro nazes zolhazfo di rurenub ila zirdodol bikmecad ok gobwu huzosza ap. Asi wawot pu to zapunwev juodaizu vu si gel nubebuz jujonu sid hirdeb dulfa. Ofeedmow danewdod mibub cevefe suujtu wez dugutefa puepa mi we huv len.",
+    "bio": "Fuwuh siginize vev te ukaboc hasrocmu nif rucva ces gudpehkur di jo asjufob zeozva bit bukhe. Nucadri mitfe bo nib se piwupton uvuceb foaplo hehuk curajcog ug ezwozil junlal nuaj. Teziubu piarrus luko zikite uk adkihu duludcu utapapo ruka wuufo pada gopvig bomud."
+  },
+  "apiKey": "2515f9c53354d462dcfb610770aafeba3988b0dd2f4e8e419d4f788aeb277b1c",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
