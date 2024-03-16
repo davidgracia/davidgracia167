@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Wheeler",
+  "age": 20,
+  "address": {
+    "street": "Eniiti Way",
+    "city": "Alavaiga",
+    "state": "OH",
+    "zip": "23272"
+  },
+  "contact": {
+    "phone": "(964) 862-1547",
+    "servicePhone": "800883992"
+  },
+  "birthday": "1992-05-16T09:20:52.512Z",
+  "ip": "219.156.43.64",
+  "foo": "bar",
+  "profile": {
+    "about": "Hanlo meklul pu woepohi gikac watpefdu emisukes bob wa viz nudel vajape teduvo ruppuan. Une somlo ewikad toviz ibobe geb bab tudubsur rucmihja febgi tofcarora linrelse lupgi sofsarmas gufo. Zehwif vucha fazir zuzna tisutu diroc apeorje sib udi debve mapgifzu iw lebe go urermul bizjif widojij udheka.",
+    "bio": "Bihro hisjogiv wage dor vu dej pagifve guas tun cuszu mo heztus. Bapu ecvok zu ovinug jeefajop am umzari cawpap wulozok giljedho catac domle nekvonji pofkirkas zucu. Ketogec taf seji do eju lobauko pihezkar sidsozsa fosma ivefacce hulgeluni vacuke aw pag we. Log jupafe no jeb uzovin wakhod paf pioscur uzli fibfuk ziakulu na fi wugkig uv."
+  },
+  "apiKey": "65b49f933eb5a5cd3b911ac4a2c1a30ca0e9fda56b9af2aa6e2a328b21021598",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
