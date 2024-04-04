@@ -1,0 +1,26 @@
+{
+  "name": "Howard Singleton",
+  "age": 65,
+  "address": {
+    "street": "Mipke Circle",
+    "city": "Sehanuk",
+    "state": "VT",
+    "zip": "21693"
+  },
+  "contact": {
+    "phone": "(884) 815-9148",
+    "servicePhone": "800773624"
+  },
+  "birthday": "1960-06-22T07:34:41.133Z",
+  "ip": "45.135.30.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Wi rokzocha hav nug rujwisab if norop toc vulte imece ubmicjab ezava ge kitase. Rufasa pufo agabdo pevdew kahtasu wo kifitnaj go folta jiwitafaw hoat wu gafef dian komlaz zizalo cog faceidi. Bocnan niwud waziruc enlal ovopiw di ce vekjul in muv dejvulav afhah nipjo tuihiti. Be lulu ful vu banejad howita isahios pofe ofi fek fogar sajcicah imona. Zew ofo inelaum fu etbow piruzapit pe muw wiuma doblatsa rizimu bah piw uv inivu tu. Si lomadu hojenzu fadna tulwi mum itu cikego kado hunvikro tufmelwes ape.",
+    "bio": "Do femhohwe mar no awwetaj ivnahel of tunib dikzucpo zekekaf cophojeg ufeda fuupolag atiwu. Bigla gufebi tuzhe cazekug hor jaih pokacu jolodsoz geg tede utetasvo aw. Dow bojarjez huwil vukroved nim wecsona luphih zaz maof omaem rasi zakiri rul ritiof pusre je mucaval udcisma. Loz befjo bekjek mob boz zeiso bevemura en rateh olo en pokeji uwoagoebi repe sedsun. Zulhopdi ipso ruzwe pim hewipuso rerot ac kilomda heobe citazi akefnu pomij ze. Vuvfepuge afni dajhu tajtoz fonelmo moziw we zinuv zepud owienesoj uninoer duw jaj zupowho kijcuzen. Vafkalpe tel hubsooj utetu cuvtuva jacoh fekelif nikazi vuged ozcatcu uguacijok aloidi pasapuh."
+  },
+  "apiKey": "07dd2580b123e4b2076dfdf9f31e6a416a9b3a5c65fb7139783c5801008a92e5",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
